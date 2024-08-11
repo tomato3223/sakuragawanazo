@@ -1,0 +1,28 @@
+p(class="headerLogo")
+  a(href="index.html")
+    img(src=imgPath+"/common/logo.png" alt="上方謎の園ロゴ")
+  
+div(class="hamburger")
+  span
+  span
+  span
+  
+nav(class="hamburgerMenu")
+  ul(class="hamburgerMenu__contents")
+    li
+      a(href=pages.top.url) #{pages.top.name}
+    li
+      a(href=pages.about.url) #{pages.about.name}
+    li
+      a(href=pages.group.url) #{pages.group.name}
+    li
+      a(href=pages.timetable.url) #{pages.timetable.name}
+    li
+      a(href=pages.ticket.url) #{pages.ticket.name}
+    li
+      a(href=pages.access.url) #{pages.access.name}
+      
+    a(href="https://twitter.com/nazonosono")
+      img(class="hamburgerMenu__contents__icon" src=imgPath+"/common/Twitter_icon.svg" alt="Twitter")
+    a(href="mailto:nazonosono@gmail.com")
+      img(class="hamburgerMenu__contents__icon" src=imgPath+"/common/Mail_icon.svg" alt="Mail")

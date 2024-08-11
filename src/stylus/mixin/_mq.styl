@@ -1,0 +1,23 @@
+tb-pr-min = 520px
+pc-pr-min = 1025px
+tb-ls-min = 1024px
+
+// タブレット
+tb()
+  @media print, screen and (min-width: tb-pr-min)
+    {block}
+
+// PC
+pc()
+  @media print, screen and (min-width: pc-pr-min)
+    {block}
+
+
+// 横幅≧縦幅（SPは除く）
+ls()
+  @media print, screen and (orientation: landscape)
+    {block}
+// 縦幅＞横幅
+pr()
+  @media print, screen and (orientation: portrait)
+    {block}

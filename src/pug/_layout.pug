@@ -1,0 +1,27 @@
+doctype html
+block vars
+
+html(lang="ja", dir="ltr", prefix="og: http://ogp.me/ns#")
+  head
+    include include/_head
+
+  body(class=key)
+    // ##### ロード画面 #####
+    div.load
+      include include/_load
+
+    // ##### ヘッダー #####
+    header.header
+      include include/_header
+    
+    // ##### メイン #####
+    main(class=key+"__main")
+      block contents
+      
+    // ##### フッター #####
+    footer.footer
+      include include/_footer
+    
+    script(src=jsPath+"/script.js")
+    
+    block script
