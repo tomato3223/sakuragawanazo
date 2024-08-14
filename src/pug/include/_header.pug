@@ -1,7 +1,3 @@
-p(class="headerLogo")
-  a(href="index.html")
-    img(src=imgPath+"/common/logo.png" alt="上方謎の園ロゴ")
-  
 div(class="hamburger")
   span
   span
@@ -10,19 +6,12 @@ div(class="hamburger")
 nav(class="hamburgerMenu")
   ul(class="hamburgerMenu__contents")
     li
-      a(href=pages.top.url) #{pages.top.name}
+      a(href="#mainvisual") #{"トップ"}
     li
-      a(href=pages.about.url) #{pages.about.name}
+      a(href="#story") #{"ストーリー"}
     li
-      a(href=pages.group.url) #{pages.group.name}
+      a(href="#howtoplay") #{"遊び方"}
     li
-      a(href=pages.timetable.url) #{pages.timetable.name}
+      a(href="#warning") #{"注意事項"}
     li
-      a(href=pages.ticket.url) #{pages.ticket.name}
-    li
-      a(href=pages.access.url) #{pages.access.name}
-      
-    a(href="https://twitter.com/nazonosono")
-      img(class="hamburgerMenu__contents__icon" src=imgPath+"/common/Twitter_icon.svg" alt="Twitter")
-    a(href="mailto:nazonosono@gmail.com")
-      img(class="hamburgerMenu__contents__icon" src=imgPath+"/common/Mail_icon.svg" alt="Mail")
+      a(href="#practice") #{"お試し謎"}

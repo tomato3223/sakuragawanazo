@@ -1,94 +1,27 @@
 .load
+  background-color c-yellow-1
   inset: 0
-  position: absolute;
+  position: fixed
   z-index: 9999
-
-.maku
-  inset: 0
-  overflow: hidden
-  position: absolute
-  &__left
-    bottom: 0
-    position: absolute
-    right: 100%
-    top: 0
-    width 50vw
-    &.move
-      animation: moveLeft 3s forwards
-  &__right
-    bottom: 0
-    left: 100%
-    position: absolute
-    top: 0
-    width 50vw
-    &.move
-      animation: moveRight 3s forwards
-  & img
-    height: 100%
-
-@keyframes moveLeft {
-  0% {
-    transform: translateX(0%)
-  }
-  30% {
-    transform: translateX(100%)
-  }
-  50% {
-    transform: translateX(100%)
-  }
-  100% {
-    transform: translateX(-100%)
-  }
-}
-@keyframes moveRight {
-  0% {
-    transform: translateX(0%)
-  }
-  30% {
-    transform: translateX(-100%)
-  }
-  50% {
-    transform: translateX(-100%)
-  }
-  100% {
-    transform: translateX(100%)
-  }
-}
-
-.progress
-  background-color c-bg-1
-  inset: 0
-  position: absolute
+  transform: translateY(0%)
   &__logo
     left: 50%
-    position absolute
-    top: 45%
+    position fixed
+    top: 50%
     transform: translate(-50%, -50%)
     width 50vw
-  &__bar
-    background-color c-navy
-    height: 1rem
-    left: 50%
-    position absolute
-    top: 60%
-    transform: translate(-50%, -50%)
-    width: 70vw
-    &__now
-      background-color c-red
-      height 100%
-      position absolute
-      top: 0
-      width 0
+    display none
 
-@keyframes progress {
+@keyframes loadfadeout {
+  0% {
+    transform: translateY(0%)
+  }
   100% {
-    width 100%
+    transform: translateY(100%)
   }
 }
 
 +ls()
-  .progress
+  .load
     &__logo
       width 20vw
-    &__bar
-      width 40vw

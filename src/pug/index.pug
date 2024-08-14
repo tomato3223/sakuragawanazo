@@ -6,46 +6,18 @@ block vars
   - var page = pages[key]
 
 block contents
-  div.hero
-    p(class="hero__msg")
-      span.hero__msg--1.line 上方謎の園を通して<br>
-      span.hero__msg--2.line 謎解きの文化を未来に継承する
-    img(class="hero__sensu" src=imgPath+"/top/sensu.png" alt="扇子")
-    img(class="hero__logoLarge" src=imgPath+"/top/logo_large.png" alt="上方謎の園ロゴ")
-    div.hero__scroll 
-      p.hero__scroll__txt
-        | SCROLL
-      div.hero__scroll__triangle 
-  section(class="topAbout")
-    img(class="topIcon" src=imgPath+"/about/logo_about.png" alt="about")
-    h1.ttl--1 上方謎の園とは
-    span.ttl--2 ABOUT
-    div(class="hukidashi")
-      p(class="topAbout__desc")
-        | 新型コロナの影響により、
-        span.line 学生による謎解き制作の文化
-        | が失われつつあります。<br><br>
-        | この状況を、
-        span.line 学生が謎を制作し発表できるイベント
-        | を設けることで打破したい！<br><br>
-        | そんな熱い想いを持った学生たちが集まり、
-        | 上方謎の園プロジェクトを発足しました。
-      a(class="btn--box" href="about.html") 詳細を見る
-        span(class="material-symbols-outlined") play_arrow
-  section(class="topCloudFunding")
-    img(class="topIcon" src=imgPath+"/top/logo_cloudfunding.png" alt="cloudfunding")
-    h1.ttl--1 クラウドファンディング
-    span.ttl--2 CLOUD FUNDING
-    div(class="hukidashi")
-      p(class="topAbout__desc")
-        | 本イベントは学生が主催しており、イベント開催に必要な資金を
-        span.line クラウドファンディング 
-        | にて調達します。<br><br>
-        | イベント開催の条件は、会場費などを賄える
-        span.line 70万円
-        | を調達すること。<br><br>
-        | なお超過した分に関しましては、イベントの質を向上させるために使用させていただきます。
-        | 詳しくは、以下のボタンからご確認いただけます。
-        | どうぞ皆様からの温かいご支援の程、よろしくお願いいたします。
-      a(class="btn--box" href="https://kibidango.com/2155") 支援サイト(kibidango)へ
-        span(class="material-symbols-outlined") play_arrow      
+  div(class="mask" id="mask") 
+  section(class="mainvisual" id="mainvisual")
+    img(class="image" src=imgPath+"/top/mainvisual.jpg" alt="メインビジュアル")
+  section(class="story" id="story")
+    img(class="image" src=imgPath+"/top/story.png" alt="ストーリー")
+  section(class="howtoplay" id="howtoplay")
+    img(class="image" src=imgPath+"/top/howtoplay_sp_1.png" alt="遊び方1")
+    img(class="image" src=imgPath+"/top/howtoplay_sp_2.png" alt="遊び方2")
+  section(class="warning" id="warning")
+    img(class="image" src=imgPath+"/top/warning_sp.png" alt="注意事項")
+  section(class="practice" id="practice")
+    img(class="image" src=imgPath+"/top/practice1.png" alt="お試し謎1")
+    a(class="btn--box") ヒント
+    a(class="btn--box") 答え
+      

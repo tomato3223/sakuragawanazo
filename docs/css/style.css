@@ -1,35 +1,35 @@
 
-/* line 28 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\style.styl */
+/* line 22 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\style.styl */
 
-/* line 1 : C:\Users\daito\AppData\Local\Prepros\app-7.6.0\resources\app.asar\node_modules\stylus\lib\functions\index.styl */
+/* line 1 : C:\Users\daito\AppData\Local\Prepros\app-7.26.0\resources\app.asar\node_modules\stylus\lib\functions\index.styl */
 
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\style.styl */
+/* line 1 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\style.styl */
 @charset "UTF-8";
 
-/* line 297 : C:\Users\daito\AppData\Local\Prepros\app-7.6.0\resources\app.asar\node_modules\stylus\lib\functions\index.styl */
+/* line 297 : C:\Users\daito\AppData\Local\Prepros\app-7.26.0\resources\app.asar\node_modules\stylus\lib\functions\index.styl */
 
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\setting\_path.styl */
+/* line 1 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\setting\_path.styl */
 
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\setting\_path.styl */
+/* line 1 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\setting\_path.styl */
 
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\setting\_color.styl */
+/* line 1 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\setting\_color.styl */
 
-/* line 9 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\setting\_color.styl */
+/* line 6 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\setting\_color.styl */
 
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\mixin\_mq.styl */
+/* line 1 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\mixin\_mq.styl */
 
-/* line 23 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\mixin\_mq.styl */
+/* line 23 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\mixin\_mq.styl */
 
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\component\_heading.styl */
+/* line 1 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\component\_heading.styl */
 
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\component\_heading.styl */
+/* line 1 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\component\_heading.styl */
 .ttl--1 {
   font-size: 160%;
   font-weight: 500;
   margin: 3rem 0 0.01rem;
 }
 
-/* line 6 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\component\_heading.styl */
+/* line 6 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\component\_heading.styl */
 .ttl--2 {
   align-items: center;
   display: flex;
@@ -39,7 +39,7 @@
   margin: 0.01rem 0 0.5rem 0;
 }
 
-/* line 13 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\component\_heading.styl */
+/* line 13 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\component\_heading.styl */
 .ttl--2:before {
   border-top: 0.1rem solid;
   content: "";
@@ -47,7 +47,7 @@
   width: 1em;
 }
 
-/* line 18 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\component\_heading.styl */
+/* line 18 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\component\_heading.styl */
 .ttl--2:after {
   border-top: 0.1rem solid;
   content: "";
@@ -55,126 +55,70 @@
   width: 1em;
 }
 
-/* line 24 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\component\_heading.styl */
+/* line 24 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\component\_heading.styl */
 .ttl--3 {
   font-size: 150%;
   font-weight: 500;
   text-align: left;
   padding: 0rem 1rem;
-  border-left: 1rem solid #152a42;
+  border-left: 1rem solid c-txt-1;
   margin-left: 5vw;
 }
 @media print, screen and (orientation: landscape) {
 
-/* line 33 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\component\_heading.styl */
+/* line 33 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\component\_heading.styl */
   .ttl--1 {
     font-size: 200%;
     margin: 5rem 0 2rem;
   }
 
-/* line 36 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\component\_heading.styl */
+/* line 36 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\component\_heading.styl */
   .ttl--2 {
     font-size: 90%;
     margin: 2rem 0;
   }
 
-/* line 39 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\component\_heading.styl */
+/* line 39 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\component\_heading.styl */
   .ttl--3 {
     font-size: 150%;
   }
 }
 
-/* line 40 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\component\_heading.styl */
+/* line 40 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\component\_heading.styl */
 
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\component\_btn.styl */
+/* line 1 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\component\_btn.styl */
 
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\component\_btn.styl */
+/* line 1 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\component\_btn.styl */
 .btn--box {
-  border: 0.15rem solid #152a42;
-  border-radius: 2rem;
-  padding: 0.5rem 1rem 0.5rem 2rem;
-  background-color: #152a42;
+  text-align: center;
+  background: #7e1834;
   color: #fff;
+  font-size: 100%;
+  font-weight: bold;
+  margin: 1rem;
+  padding: 1.5rem 7rem;
 }
 
-/* line 7 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\component\_btn.styl */
-.btn--box .material-symbols-outlined {
-  font-size: 3rem;
-  padding-left: 2rem;
-  vertical-align: -1rem;
-}
+/* line 8 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\component\_btn.styl */
 
-/* line 11 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\component\_btn.styl */
-.btn--box:hover {
-  background-color: #fff;
-  color: #152a42;
-}
+/* line 1 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\component\_line.styl */
 
-/* line 15 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\component\_btn.styl */
-.btn--box--Twitter {
-  border: 0.15rem solid #1da1f2;
-  border-radius: 2rem;
-  padding: 0.5rem 1rem 0.5rem 2rem;
-  background-color: #1da1f2;
-  color: #fff;
-}
-
-/* line 21 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\component\_btn.styl */
-.btn--box--Twitter .material-symbols-outlined {
-  font-size: 3rem;
-  padding-left: 2rem;
-  vertical-align: -1rem;
-}
-
-/* line 25 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\component\_btn.styl */
-.btn--box--Twitter:hover {
-  border-color: #1da1f2;
-  background-color: #fff;
-  color: #1da1f2;
-}
-
-/* line 28 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\component\_btn.styl */
-
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\component\_line.styl */
-
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\component\_line.styl */
+/* line 1 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\component\_line.styl */
 .line {
-  background: linear-gradient(transparent 70%, #ebcd37 70%);
+  background: linear-gradient(transparent 70%, #fff9db 70%);
 }
 
-/* line 2 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\component\_line.styl */
+/* line 2 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\component\_line.styl */
 
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\component\_box.styl */
+/* line 1 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\component\_icon.styl */
 
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\component\_box.styl */
-.hukidashi {
-  background: no-repeat center/100% 100% url("../img/common/hukidashi_big.svg");
-  margin: 0 auto;
-  max-width: 40rem;
-  padding: 4.5rem 1rem 3.5rem;
-  width: 90vw;
-}
-
-/* line 8 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\component\_box.styl */
-.hukidashi--reverse {
-  background: no-repeat center/100% 100% url("../img/common/hukidashi_big_reverse.svg");
-  margin: 0 auto;
-  max-width: 40rem;
-  padding: 4.5rem 1rem 3.5rem;
-  width: 90vw;
-}
-
-/* line 13 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\component\_box.styl */
-
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\component\_icon.styl */
-
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\component\_icon.styl */
+/* line 1 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\component\_icon.styl */
 .topIcon {
   padding-top: 7rem;
   width: 8rem;
 }
 
-/* line 5 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\component\_icon.styl */
+/* line 5 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\component\_icon.styl */
 .icon_Twitter {
   margin: 0vh 5vw;
   width: 11%;
@@ -182,12 +126,12 @@
 }
 @media print, screen and (orientation: landscape) {
 
-/* line 12 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\component\_icon.styl */
+/* line 12 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\component\_icon.styl */
   .topIcon {
     width: 8%;
   }
 
-/* line 15 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\component\_icon.styl */
+/* line 15 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\component\_icon.styl */
   .icon_Twitter {
     margin: 3rem 0.8rem;
     width: 2.8%;
@@ -195,25 +139,25 @@
   }
 }
 
-/* line 18 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\component\_icon.styl */
+/* line 18 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\component\_icon.styl */
 
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 1 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 
-/* line 8 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 8 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 *,
 ::before,
 ::after {
   box-sizing: border-box;
 }
 
-/* line 19 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 19 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 ::before,
 ::after {
   text-decoration: inherit; /* 1 */
   vertical-align: inherit; /* 2 */
 }
 
-/* line 35 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 35 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 html {
   cursor: default; /* 1 */
   line-height: 1.5; /* 2 */
@@ -226,18 +170,18 @@ html {
   word-break: break-word; /* 6 */
 }
 
-/* line 53 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 53 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 body {
   margin: 0;
 }
 
-/* line 62 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 62 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
 }
 
-/* line 74 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 74 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 dl dl,
 dl ol,
 dl ul,
@@ -246,7 +190,7 @@ ul dl {
   margin: 0;
 }
 
-/* line 86 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 86 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 ol ol,
 ol ul,
 ul ol,
@@ -254,49 +198,49 @@ ul ul {
   margin: 0;
 }
 
-/* line 98 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 98 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 hr {
   height: 0; /* 1 */
   overflow: visible; /* 2 */
 }
 
-/* line 107 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 107 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 main {
   display: block;
 }
 
-/* line 115 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 115 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 nav ol,
 nav ul {
   list-style: none;
   padding: 0;
 }
 
-/* line 126 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 126 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 pre {
   font-family: monospace, monospace; /* 1 */
   font-size: 1em; /* 2 */
 }
 
-/* line 138 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 138 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 a {
   background-color: transparent;
 }
 
-/* line 146 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 146 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 abbr[title] {
   text-decoration: underline;
   -webkit-text-decoration: underline dotted;
           text-decoration: underline dotted;
 }
 
-/* line 155 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 155 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 b,
 strong {
   font-weight: bolder;
 }
 
-/* line 165 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 165 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 code,
 kbd,
 samp {
@@ -304,12 +248,12 @@ samp {
   font-size: 1em; /* 2 */
 }
 
-/* line 176 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 176 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 small {
   font-size: 80%;
 }
 
-/* line 187 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 187 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 audio,
 canvas,
 iframe,
@@ -319,57 +263,57 @@ video {
   vertical-align: middle;
 }
 
-/* line 200 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 200 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 audio,
 video {
   display: inline-block;
 }
 
-/* line 209 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 209 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 audio:not([controls]) {
   display: none;
   height: 0;
 }
 
-/* line 218 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 218 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 iframe {
   border-style: none;
 }
 
-/* line 226 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 226 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 img {
   border-style: none;
 }
 
-/* line 234 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 234 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 svg:not([fill]) {
   fill: currentColor;
 }
 
-/* line 242 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 242 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 svg:not(:root) {
   overflow: hidden;
 }
 
-/* line 253 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 253 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 table {
   border-collapse: collapse;
 }
 
-/* line 264 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 264 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 button,
 input,
 select {
   margin: 0;
 }
 
-/* line 275 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 275 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 button {
   overflow: visible; /* 1 */
   text-transform: none; /* 2 */
 }
 
-/* line 284 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 284 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 button,
 [type="button"],
 [type="reset"],
@@ -377,18 +321,18 @@ button,
   -webkit-appearance: button;
 }
 
-/* line 296 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 296 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 fieldset {
   border: 1px solid #a0a0a0; /* 1 */
   padding: 0.35em 0.75em 0.625em; /* 2 */
 }
 
-/* line 305 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 305 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 input {
   overflow: visible;
 }
 
-/* line 314 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 314 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 legend {
   color: inherit; /* 2 */
   display: table; /* 1 */
@@ -396,88 +340,87 @@ legend {
   white-space: normal; /* 1 */
 }
 
-/* line 326 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 326 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 progress {
   display: inline-block; /* 1 */
   vertical-align: baseline; /* 2 */
 }
 
-/* line 335 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 335 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 select {
   text-transform: none;
 }
 
-/* line 345 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 345 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 textarea {
   margin: 0; /* 1 */
   overflow: auto; /* 2 */
   resize: vertical; /* 3 */
 }
 
-/* line 355 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 355 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 [type="checkbox"],
 [type="radio"] {
   padding: 0;
 }
 
-/* line 365 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 365 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 [type="search"] {
   -webkit-appearance: textfield; /* 1 */
   outline-offset: -2px; /* 2 */
 }
 
-/* line 374 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 374 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 ::-webkit-inner-spin-button,
 ::-webkit-outer-spin-button {
   height: auto;
 }
 
-/* line 383 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 383 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 ::-webkit-input-placeholder {
   color: inherit;
   opacity: 0.54;
 }
 
-/* line 392 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 392 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 ::-webkit-search-decoration {
   -webkit-appearance: none;
 }
 
-/* line 401 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 401 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 ::-webkit-file-upload-button {
   -webkit-appearance: button; /* 1 */
   font: inherit; /* 2 */
 }
 
-/* line 410 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 410 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 ::-moz-focus-inner {
   border-style: none;
   padding: 0;
 }
 
-/* line 419 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 419 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 :-moz-focusring {
   outline: 1px dotted ButtonText;
 }
 
-/* line 427 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 427 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 :-moz-ui-invalid {
   box-shadow: none;
 }
 
-/* line 438 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 438 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 details {
   display: block;
 }
 
-/* line 446 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 446 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 dialog {
   background-color: #fff;
   border: solid;
   color: #000;
   display: block;
   height: -moz-fit-content;
-  height: -webkit-fit-content;
   height: fit-content;
   left: 0;
   margin: auto;
@@ -485,31 +428,30 @@ dialog {
   position: absolute;
   right: 0;
   width: -moz-fit-content;
-  width: -webkit-fit-content;
   width: fit-content;
 }
 
-/* line 464 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 464 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 dialog:not([open]) {
   display: none;
 }
 
-/* line 472 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 472 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 summary {
   display: list-item;
 }
 
-/* line 483 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 483 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 canvas {
   display: inline-block;
 }
 
-/* line 491 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 491 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 template {
   display: none;
 }
 
-/* line 504 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 504 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 a,
 area,
 button,
@@ -522,39 +464,39 @@ textarea,
   touch-action: manipulation; /* 2 */
 }
 
-/* line 521 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 521 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 [hidden] {
   display: none;
 }
 
-/* line 532 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 532 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 [aria-busy="true"] {
   cursor: progress;
 }
 
-/* line 540 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 540 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 [aria-controls] {
   cursor: pointer;
 }
 
-/* line 549 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 549 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 [aria-disabled="true"],
 [disabled] {
   cursor: not-allowed;
 }
 
-/* line 559 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 559 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 [aria-hidden="false"][hidden] {
   display: initial;
 }
 
-/* line 563 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 563 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 [aria-hidden="false"][hidden]:not(:focus) {
   clip: rect(0, 0, 0, 0);
   position: absolute;
 }
 
-/* line 569 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 569 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 h1,
 h2,
 h3,
@@ -564,20 +506,18 @@ h6 {
   font-size: 100%;
 }
 
-/* line 570 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_sanitize.styl */
+/* line 570 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_sanitize.styl */
 
-/* line 570 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_base.styl */
+/* line 570 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_base.styl */
 
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_base.styl */
+/* line 1 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_base.styl */
 html {
   font-size: 62.5%;
 }
 
-/* line 4 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_base.styl */
+/* line 4 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_base.styl */
 body {
-  background-image: url("../img/common/kamigata_haikei_sp.jpg");
-  background-repeat: repeat;
-  color: #152a42;
+  color: c-txt-1;
   display: flex;
   font-family: 'Roboto', 'Noto Sans JP', sans-serif;
   flex-flow: column;
@@ -589,313 +529,132 @@ body {
   min-height: 100vh;
 }
 
-/* line 18 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_base.styl */
+/* line 16 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_base.styl */
 main {
   flex: 1;
 }
 @media print, screen and (min-width: 520px) {
 
-/* line 22 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_base.styl */
+/* line 20 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_base.styl */
   body {
     font-size: 1.6rem;
   }
 }
 @media print, screen and (min-width: 1025px) {
 
-/* line 26 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_base.styl */
+/* line 24 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_base.styl */
   body {
     font-size: 1.6rem;
     letter-spacing: 0.1em;
   }
 }
 
-/* line 30 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_base.styl */
+/* line 28 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_base.styl */
 * {
   float: none;
   position: static;
 }
 
-/* line 34 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_base.styl */
+/* line 32 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_base.styl */
 a {
   color: inherit;
   text-decoration: none;
 }
 
-/* line 37 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_base.styl */
+/* line 35 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_base.styl */
 a:hover {
   color: c-gray;
 }
 
-/* line 39 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_base.styl */
+/* line 37 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_base.styl */
 img {
   width: 100%;
 }
 
-/* line 42 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_base.styl */
+/* line 40 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_base.styl */
 li {
   list-style: none;
 }
 
-/* line 45 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_base.styl */
-::-moz-selection {
-  color: #fff;
-  background-color: #152a42;
-}
+/* line 43 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_base.styl */
 ::selection {
-  color: #fff;
-  background-color: #152a42;
+  color: c-bg-1;
+  background-color: c-txt-1;
 }
 
-/* line 48 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_base.styl */
+/* line 46 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_base.styl */
 ::moz-selection {
-  color: #fff;
-  background-color: #152a42;
+  color: c-bg-1;
+  background-color: c-txt-1;
 }
 
-/* line 52 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_base.styl */
+/* line 50 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_base.styl */
 ::-webkit-scrollbar {
-  background-color: #152a42;
+  background-color: c-navy;
 }
 
-/* line 54 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_base.styl */
+/* line 52 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_base.styl */
 ::-webkit-scrollbar-thumb {
-  background-color: #e3493f;
+  background-color: c-red;
 }
 
-/* line 55 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\foundation\_base.styl */
+/* line 53 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\foundation\_base.styl */
 
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
+/* line 1 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_load.styl */
 
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
+/* line 1 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_load.styl */
 .load {
+  background-color: #fff9db;
   inset: 0;
-  position: absolute;
+  position: fixed;
   z-index: 9999;
+  transform: translateY(0%);
 }
 
-/* line 6 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-.maku {
-  inset: 0;
-  overflow: hidden;
-  position: absolute;
-}
-
-/* line 10 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-.maku__left {
-  bottom: 0;
-  position: absolute;
-  right: 100%;
-  top: 0;
-  width: 50vw;
-}
-
-/* line 16 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-.maku__left.move {
-  -webkit-animation: moveLeft 3s forwards;
-          animation: moveLeft 3s forwards;
-}
-
-/* line 18 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-.maku__right {
-  bottom: 0;
-  left: 100%;
-  position: absolute;
-  top: 0;
-  width: 50vw;
-}
-
-/* line 24 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-.maku__right.move {
-  -webkit-animation: moveRight 3s forwards;
-          animation: moveRight 3s forwards;
-}
-
-/* line 26 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-.maku img {
-  height: 100%;
-}
-
-/* line 58 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-.progress {
-  background-color: #fff;
-  inset: 0;
-  position: absolute;
-}
-
-/* line 62 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-.progress__logo {
+/* line 7 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_load.styl */
+.load__logo {
   left: 50%;
-  position: absolute;
-  top: 45%;
+  position: fixed;
+  top: 50%;
   transform: translate(-50%, -50%);
   width: 50vw;
-}
-
-/* line 68 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-.progress__bar {
-  background-color: #152a42;
-  height: 1rem;
-  left: 50%;
-  position: absolute;
-  top: 60%;
-  transform: translate(-50%, -50%);
-  width: 70vw;
-}
-
-/* line 76 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-.progress__bar__now {
-  background-color: #e3493f;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  width: 0;
+  display: none;
 }
 @media print, screen and (orientation: landscape) {
 
-/* line 90 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
+/* line 25 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_load.styl */
 
-/* line 91 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-  .progress__logo {
+/* line 26 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_load.styl */
+  .load__logo {
     width: 20vw;
   }
-
-/* line 93 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-  .progress__bar {
-    width: 40vw;
-  }
 }
 
-/* line 29 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
+/* line 15 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_load.styl */
 
-/* line 29 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-@-webkit-keyframes moveLeft {
+/* line 15 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_load.styl */
 
-/* line 30 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
+/* line 15 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_load.styl */
+
+/* line 15 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_load.styl */
+@keyframes loadfadeout {
+
+/* line 16 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_load.styl */
   0% {
-    transform: translateX(0%);
+    transform: translateY(0%);
   }
 
-/* line 33 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-  30% {
-    transform: translateX(100%);
-  }
-
-/* line 36 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-  50% {
-    transform: translateX(100%);
-  }
-
-/* line 39 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
+/* line 19 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_load.styl */
   100% {
-    transform: translateX(-100%);
+    transform: translateY(100%);
   }
 }
 
-/* line 29 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
+/* line 27 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_load.styl */
 
-/* line 29 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-@keyframes moveLeft {
+/* line 1 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
 
-/* line 30 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-  0% {
-    transform: translateX(0%);
-  }
-
-/* line 33 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-  30% {
-    transform: translateX(100%);
-  }
-
-/* line 36 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-  50% {
-    transform: translateX(100%);
-  }
-
-/* line 39 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-  100% {
-    transform: translateX(-100%);
-  }
-}
-
-/* line 43 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-
-/* line 43 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-@-webkit-keyframes moveRight {
-
-/* line 44 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-  0% {
-    transform: translateX(0%);
-  }
-
-/* line 47 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-  30% {
-    transform: translateX(-100%);
-  }
-
-/* line 50 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-  50% {
-    transform: translateX(-100%);
-  }
-
-/* line 53 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-  100% {
-    transform: translateX(100%);
-  }
-}
-
-/* line 43 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-
-/* line 43 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-@keyframes moveRight {
-
-/* line 44 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-  0% {
-    transform: translateX(0%);
-  }
-
-/* line 47 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-  30% {
-    transform: translateX(-100%);
-  }
-
-/* line 50 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-  50% {
-    transform: translateX(-100%);
-  }
-
-/* line 53 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-  100% {
-    transform: translateX(100%);
-  }
-}
-
-/* line 83 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-
-/* line 83 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-@-webkit-keyframes progress {
-
-/* line 84 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-  100% {
-    width: 100%;
-  }
-}
-
-/* line 83 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-
-/* line 83 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-@keyframes progress {
-
-/* line 84 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-  100% {
-    width: 100%;
-  }
-}
-
-/* line 94 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_load.styl */
-
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
-
-/* line 10 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 10 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
 .header {
   height: 6.6rem;
   position: fixed;
@@ -903,22 +662,9 @@ li {
   z-index: 10;
 }
 
-/* line 16 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
-.headerLogo {
-  margin: 0;
-  padding: 1rem;
-}
-
-/* line 19 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
-.headerLogo img {
-  height: 4.6rem;
-  position: relative;
-  width: auto;
-}
-
-/* line 24 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 16 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
 .hamburger {
-  background: center/100% url("../img/common/hukidashi_menu.png");
+  background: #34acbd;
   cursor: pointer;
   display: block;
   height: 4.2rem;
@@ -927,11 +673,11 @@ li {
   text-align: center;
   top: 1.2rem;
   width: 4.2rem;
-  z-index: 10;
+  z-index: 11;
 /* ナビ開いてる時のボタン */
 }
 
-/* line 35 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 27 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
 .hamburger span {
   background: #fff;
   display: block;
@@ -944,62 +690,64 @@ li {
   width: 1.7rem;
 }
 
-/* line 45 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 37 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
 .hamburger span:nth-child(1) {
   top: 1.2rem;
 }
 
-/* line 47 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 39 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
 .hamburger span:nth-child(2) {
   top: 2rem;
 }
 
-/* line 49 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 41 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
 .hamburger span:nth-child(3) {
   top: 2.8rem;
 }
 
-/* line 52 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 44 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
 
-/* line 53 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 45 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
 .hamburger.active span {
   height: 0.15rem;
   right: 1.2rem;
   width: 1.7rem;
 }
 
-/* line 57 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 49 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
 .hamburger.active span:nth-child(1) {
-  background: #fff;
+  background: c-bg-1;
   top: 2.1rem;
   transform: rotate(-45deg);
 }
 
-/* line 61 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 53 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
 .hamburger.active span:nth-child(2),
 .hamburger.active span:nth-child(3) {
-  background: #fff;
+  background: c-bg-1;
   top: 2.1rem;
   transform: rotate(45deg);
 }
 
-/* line 67 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 59 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
 .hamburgerMenu {
   background: #fff;
-  color: #152a42;
+  color: #003e54;
+  height: 100vh;
   left: 0;
   opacity: 0;
   position: fixed;
   text-align: center;
   top: 0;
-  transition: 0.6s ease;
   visibility: hidden;
-  width: 100%;
-  z-index: 5;
+  width: 80%;
+  z-index: 10;
+  transition: 0.4s;
+  transform: translateX(100%);
 /* このクラスを、jQueryで付与・削除する */
 }
 
-/* line 79 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 73 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
 .hamburgerMenu__contents {
   margin: 0 auto;
   padding: 0;
@@ -1007,118 +755,110 @@ li {
   width: 100%;
 }
 
-/* line 84 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 78 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
 .hamburgerMenu__contents li {
   list-style-type: none;
   transition: 0.4s all;
   width: 100%;
 }
 
-/* line 88 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 82 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
 .hamburgerMenu__contents li:last-child {
   padding-bottom: 0;
 }
 
-/* line 90 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 84 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
 .hamburgerMenu__contents li a {
-  color: #152a42;
+  color: #003e54;
   display: inline-block;
   margin: 3rem 0 0.2rem;
   padding: 0;
   width: 45%;
 }
 
-/* line 96 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 90 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
 .hamburgerMenu__contents li a:hover {
-  background-color: #152a42;
-  color: #fff;
+  background-color: #eaf5f5;
 }
 
-/* line 99 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 93 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
 .hamburgerMenu__contents__icon {
   margin: 2.8rem 0.8rem;
   width: 4rem;
 }
 
-/* line 104 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 98 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
 .hamburgerMenu.active {
-  height: 100vh;
   opacity: 100;
   overflow-y: scroll;
   visibility: visible;
+  transform: translateX(30%);
 }
 
-/* line 109 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 103 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
 .hamburgerMenu.active::-webkit-scrollbar {
   display: none;
 }
 @media print, screen and (orientation: landscape) {
 
-/* line 113 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 107 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
   .header {
     height: 8rem;
   }
 
-/* line 115 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
-
-/* line 116 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
-  .headerLogo img {
-    height: 5.6rem;
-  }
-
-/* line 118 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 109 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
   .hamburger {
     height: 5rem;
     width: 5rem;
   }
 
-/* line 121 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 112 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
   .hamburger span {
     right: 1.5rem;
     width: 1.9rem;
   }
 
-/* line 124 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 115 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
   .hamburger span:nth-child(1) {
     top: 1.5rem;
   }
 
-/* line 126 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 117 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
   .hamburger span:nth-child(2) {
     top: 2.4rem;
   }
 
-/* line 128 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 119 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
   .hamburger span:nth-child(3) {
     top: 3.3rem;
   }
 
-/* line 130 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 121 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
 
-/* line 131 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 122 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
   .hamburger.active span {
     right: 1.5rem;
     width: 1.9rem;
   }
 
-/* line 134 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 125 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
   .hamburger.active span:nth-child(1) {
     top: 2.5rem;
   }
 
-/* line 136 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 127 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
   .hamburger.active span:nth-child(2),
   .hamburger.active span:nth-child(3) {
     top: 2.5rem;
   }
 
-/* line 139 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 130 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
 
-/* line 140 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 131 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
 
-/* line 141 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 132 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
 
-/* line 142 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 133 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
   .hamburgerMenu__contents li a {
     border-bottom: none;
     display: inline-block;
@@ -1126,9 +866,9 @@ li {
     width: 15%;
   }
 
-/* line 147 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 138 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
   .hamburgerMenu__contents li a::after {
-    border-bottom: 0.2rem solid #152a42;
+    border-bottom: 0.2rem solid #003e54;
     content: "";
     display: block;
     padding-bottom: 0.5rem;
@@ -1136,67 +876,67 @@ li {
     width: 0;
   }
 
-/* line 154 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 145 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
   .hamburgerMenu__contents li a:hover {
     background-color: inherit;
     color: inherit;
   }
 
-/* line 157 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 148 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
   .hamburgerMenu__contents li a:hover::after {
     width: 100%;
   }
 
-/* line 159 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 150 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
   .hamburgerMenu__contents li a:active {
-    background-color: #152a42;
-    color: #fff;
+    background-color: c-txt-1;
+    color: c-bg-1;
   }
 
-/* line 162 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 153 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
   .hamburgerMenu__contents__icon {
     margin: 3rem 0.8rem;
     width: 2.8%;
   }
 
-/* line 165 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 156 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
 
-/* line 166 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 157 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
   .hamburgerMenu.active::-webkit-scrollbar {
     background-color: #fff;
   }
 }
 
-/* line 167 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_header.styl */
+/* line 158 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_header.styl */
 
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_footer.styl */
+/* line 1 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_footer.styl */
 
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_footer.styl */
+/* line 1 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_footer.styl */
 .footer {
-  background-color: #152a42;
-  color: #fff;
+  background-color: #fff9db;
+  color: #003e54;
   font-size: 1rem;
   letter-spacing: 0.1rem;
   text-align: center;
 }
 
-/* line 8 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_footer.styl */
+/* line 8 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_footer.styl */
 .copyright {
   margin: 0;
 }
 @media print, screen and (orientation: landscape) {
 
-/* line 12 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_footer.styl */
+/* line 12 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_footer.styl */
   .footer {
     font-size: 1.3rem;
   }
 }
 
-/* line 13 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\common\_footer.styl */
+/* line 13 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\common\_footer.styl */
 
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
+/* line 1 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\page\_top.styl */
 
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
+/* line 1 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\page\_top.styl */
 .top__main {
   overflow-x: hidden;
   position: relative;
@@ -1204,567 +944,71 @@ li {
   z-index: 0;
 }
 
-/* line 7 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
-.hero {
-  position: relative;
-  z-index: -5;
+/* line 7 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\page\_top.styl */
+.mask.active {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  z-index: 8;
+  background: rgba(0,0,0,0.55);
+  transition: ease 0.4s;
 }
 
-/* line 10 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
-.hero__msg {
-  font-size: 4.5vw;
-  letter-spacing: 0.7rem;
-  line-height: 6vh;
-  padding-left: 1rem;
-  position: relative;
-  text-align: left;
-  top: 20%;
-  transform: translateY(-50%);
-}
+/* line 15 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\page\_top.styl */
 
-/* line 19 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
-.hero__msg--1,
-.hero__msg--2 {
-  transition: opacity 1s;
-}
+/* line 15 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\page\_top.styl */
 
-/* line 21 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
-.hero img.hero__sensu {
-  left: 72%;
-  position: absolute;
-  top: 50%;
-  transform: translate(-50%, -50%);
-  width: 200%;
-  z-index: -5;
-}
+/* line 15 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\page\_top.styl */
 
-/* line 28 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
-.hero img.hero__logoLarge {
-  bottom: 13%;
-  height: 10%;
-  left: 50%;
-  position: absolute;
-  transform: translate(-50%, -50%);
-  width: auto;
-}
-
-/* line 35 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
-.hero__scroll {
-  -webkit-animation: upDown 2s infinite;
-          animation: upDown 2s infinite;
-  bottom: 3rem;
-  cursor: pointer;
-  left: 50%;
-  transition: opacity 1s;
-  position: absolute;
-  z-index: -1;
-}
-
-/* line 43 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
-.hero__scroll__txt {
-  font-size: 2.7vw;
-  margin: 0.5rem auto;
-  transform: translateX(-50%);
-}
-
-/* line 47 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
-.hero__scroll__triangle {
-  border-left: 0.7rem solid transparent;
-  border-right: 0.7rem solid transparent;
-  border-top: 1.05rem solid #152a42;
-  height: 0;
-  transform: translateX(-50%);
-  width: 0;
-}
-
-/* line 55 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
-
-/* line 56 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
-.topAbout__desc {
-  padding: 1rem;
-  text-align: left;
-}
-
-/* line 75 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
-.topAbout {
-  padding: 1vh 3vw 1vh 3vw;
-}
-
-/* line 78 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
-.topCloudFunding {
-  padding: 1vh 3vw 5vh 3vw;
-}
-@media print, screen and (orientation: landscape) {
-
-/* line 82 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
-
-/* line 83 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
-  .hero__msg {
-    font-size: 2.2vw;
-    letter-spacing: 1.2rem;
-    line-height: 9vh;
-    padding-left: 2rem;
-  }
-
-/* line 88 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
-  .hero img.hero__logoLarge {
-    bottom: 20%;
-    height: 15%;
-  }
-
-/* line 91 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
-  .hero img.hero__sensu {
-    left: 85%;
-    position: absolute;
-    top: 45%;
-    width: 110%;
-  }
-
-/* line 96 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
-  .hero__scroll {
-    bottom: 7rem;
-  }
-
-/* line 98 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
-  .hero__scroll__txt {
-    font-size: 1vw;
-  }
-
-/* line 100 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
-  .hero__scroll__triangle {
-    border-left: 1.05rem solid transparent;
-    border-right: 1.05rem solid transparent;
-    border-top: 1.575rem solid #152a42;
-  }
-
-/* line 104 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
-
-/* line 105 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
-  .top__main .hukidashi {
-    max-width: 45rem;
-  }
-}
-
-/* line 60 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
-
-/* line 60 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
-@-webkit-keyframes upDown {
-
-/* line 61 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
-  0% {
-    transform: translateY(-8%);
-  }
-
-/* line 64 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
-  15% {
-    transform: translateY(8%);
-  }
-
-/* line 67 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
-  30% {
-    transform: translateY(-5%);
-  }
-
-/* line 70 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
-  45% {
-    transform: translateY(0%);
-  }
-}
-
-/* line 60 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
-
-/* line 60 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
+/* line 15 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\page\_top.styl */
 @keyframes upDown {
 
-/* line 61 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
+/* line 16 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\page\_top.styl */
   0% {
     transform: translateY(-8%);
   }
 
-/* line 64 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
+/* line 19 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\page\_top.styl */
   15% {
     transform: translateY(8%);
   }
 
-/* line 67 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
+/* line 22 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\page\_top.styl */
   30% {
     transform: translateY(-5%);
   }
 
-/* line 70 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
+/* line 25 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\page\_top.styl */
   45% {
     transform: translateY(0%);
   }
 }
 
-/* line 106 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_top.styl */
+/* line 28 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\page\_top.styl */
 
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_about.styl */
+/* line 1 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\utility\_utility.styl */
 
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_about.styl */
-.about__main {
-  overflow-x: hidden;
-  position: relative;
-  text-align: center;
-  z-index: 0;
-}
-
-/* line 6 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_about.styl */
-.about__main .ttl--3 {
-  margin: 0 auto;
-  max-width: 40rem;
-  width: 90vw;
-}
-
-/* line 11 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_about.styl */
-.aboutEvent {
-  padding: 3vh 3vw 1vh 3vw;
-  margin: 4vh 0;
-}
-
-/* line 14 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_about.styl */
-.aboutEvent__sentence {
-  text-align: left;
-  margin: 2vh auto 0 auto;
-  max-width: 40rem;
-  width: 90vw;
-}
-
-/* line 21 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_about.styl */
-.aboutStaff {
-  padding: 3vh 3vw 1vh 3vw;
-}
-
-/* line 23 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_about.styl */
-.aboutStaff__item {
-  margin: 5vh 0 8vh 0;
-}
-
-/* line 25 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_about.styl */
-.aboutStaff__item__intro {
-  padding: 1rem;
-  text-align: left;
-}
-
-/* line 28 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_about.styl */
-.aboutStaff__item__name {
-  font-size: 130%;
-}
-
-/* line 30 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_about.styl */
-.aboutStaff img {
-  width: 7rem;
-}
-@media print, screen and (orientation: landscape) {
-
-/* line 34 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_about.styl */
-  .aboutEvent {
-    margin: 5vh 0;
-  }
-
-/* line 36 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_about.styl */
-  .aboutEvent__sentence {
-    margin: 3vh auto 0 auto;
-  }
-
-/* line 39 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_about.styl */
-
-/* line 40 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_about.styl */
-  .aboutStaff img {
-    width: 8%;
-  }
-}
-
-/* line 41 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_about.styl */
-
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_access.styl */
-
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_access.styl */
-.access__main {
-  overflow-x: hidden;
-  position: relative;
-  text-align: center;
-  z-index: 0;
-}
-
-/* line 6 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_access.styl */
-.access__main iframe {
-  width: 90%;
-  margin: 3vh 0;
-}
-
-/* line 10 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_access.styl */
-.accessContents {
-  margin: 5vh 0;
-}
-
-/* line 12 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_access.styl */
-.accessContents__sentence {
-  text-align: left;
-  margin-left: 8vw;
-}
-@media print, screen and (orientation: landscape) {
-
-/* line 17 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_access.styl */
-
-/* line 18 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_access.styl */
-  .access__main iframe {
-    width: 70%;
-    margin-bottom: 10vh;
-  }
-
-/* line 21 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_access.styl */
-  .accessContents {
-    margin: 5vh 0;
-  }
-
-/* line 23 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_access.styl */
-  .accessContents .ttl--3 {
-    margin-left: 17vw;
-  }
-
-/* line 25 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_access.styl */
-  .accessContents__sentence {
-    margin-left: 18vw;
-  }
-}
-
-/* line 26 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_access.styl */
-
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_group.styl */
-
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_group.styl */
-.group__main {
-  overflow-x: hidden;
-  position: relative;
-  text-align: center;
-  z-index: 0;
-}
-
-/* line 7 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_group.styl */
-.groupContents {
-  padding: 4vh 3vw 0 3vw;
-}
-
-/* line 9 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_group.styl */
-.groupContents__wrap {
-  margin: 0 auto;
-  max-width: 40rem;
-  padding: 0 6rem 0 1rem;
-  width: 90vw;
-}
-
-/* line 14 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_group.styl */
-.groupContents__wrap.two {
-  padding: 0 0 0 1rem;
-}
-
-/* line 16 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_group.styl */
-.groupContents__number {
-  background-color: #152a42;
-  color: #fff;
-  display: block;
-  font-size: 120%;
-  width: 7rem;
-}
-
-/* line 22 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_group.styl */
-.groupContents__name {
-  font-size: 150%;
-  font-weight: 500;
-  letter-spacing: 0.2rem;
-  text-align: left;
-}
-
-/* line 27 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_group.styl */
-.groupContents__icon {
-  position: relative;
-  text-align: right;
-  top: -9.5rem;
-}
-
-/* line 31 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_group.styl */
-.groupContents__icon img {
-  width: 6rem;
-}
-
-/* line 33 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_group.styl */
-.groupContents .hukidashi {
-  position: relative;
-  top: -7rem;
-}
-
-/* line 36 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_group.styl */
-.groupContents__intro {
-  padding: 1rem;
-  text-align: left;
-}
-@media print, screen and (orientation: landscape) {
-
-/* line 41 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_group.styl */
-  .groupContents {
-    padding: 8vh 3vw 0 3vw;
-  }
-
-/* line 43 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_group.styl */
-  .groupContents__wrap {
-    max-width: 45rem;
-  }
-
-/* line 45 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_group.styl */
-  .groupContents__number {
-    font-size: 130%;
-    width: 8rem;
-  }
-
-/* line 48 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_group.styl */
-  .groupContents__name {
-    font-size: 160%;
-  }
-
-/* line 50 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_group.styl */
-  .groupContents__icon {
-    top: -12rem;
-  }
-
-/* line 52 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_group.styl */
-  .groupContents__icon img {
-    width: 10rem;
-  }
-
-/* line 54 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_group.styl */
-  .groupContents .hukidashi {
-    max-width: 45rem;
-  }
-}
-
-/* line 55 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_group.styl */
-
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_ticket.styl */
-
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_ticket.styl */
-.ticket__main {
-  overflow-x: hidden;
-  position: relative;
-  text-align: center;
-  z-index: 0;
-}
-
-/* line 6 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_ticket.styl */
-.ticket__main .ttl--3 {
-  margin: 0 auto;
-  max-width: 40rem;
-  width: 90vw;
-}
-
-/* line 11 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_ticket.styl */
-.ticketEvent {
-  padding: 3vh 3vw 1vh 3vw;
-  margin: 4vh 0;
-}
-
-/* line 14 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_ticket.styl */
-.ticketEvent__info {
-  text-align: left;
-  margin: 2vh auto 0 auto;
-  max-width: 40rem;
-  width: 90vw;
-}
-
-/* line 19 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_ticket.styl */
-.ticketEvent__info__name {
-  font-size: 120%;
-  padding-left: 1rem;
-}
-
-/* line 22 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_ticket.styl */
-
-/* line 23 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_ticket.styl */
-.ticketEvent__info__dl dt {
-  background: #152a42;
-  color: #fff;
-  display: inline-block;
-  margin: 0.8rem 0;
-  text-align: center;
-  width: 10rem;
-}
-
-/* line 30 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_ticket.styl */
-.ticketEvent__info__dl dd {
-  margin: 0 1rem;
-}
-
-/* line 32 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_ticket.styl */
-
-/* line 33 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_ticket.styl */
-.ticketEvent__info__dl .dispFlex dd {
-  font-size: 120%;
-  margin: 0.8rem 0;
-  padding-left: 1rem;
-  width: calc(100% - 10rem);
-}
-@media print, screen and (orientation: landscape) {
-
-/* line 40 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_ticket.styl */
-  .ticketEvent {
-    margin: 5vh 0;
-  }
-
-/* line 42 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_ticket.styl */
-  .ticketEvent__info {
-    margin: 3vh auto 0 auto;
-  }
-}
-
-/* line 43 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_ticket.styl */
-
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_timetable.styl */
-
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_timetable.styl */
-.timetable__main {
-  overflow-x: hidden;
-  position: relative;
-  text-align: center;
-  z-index: 0;
-}
-
-/* line 7 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_timetable.styl */
-.timetableContents {
-  padding: 2vh 3vw 0 3vw;
-}
-@media print, screen and (orientation: landscape) {
-
-/* line 12 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_timetable.styl */
-  .timetableContents {
-    padding: 2vh 3vw 0 3vw;
-  }
-}
-
-/* line 13 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\page\_timetable.styl */
-
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\utility\_utility.styl */
-
-/* line 1 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\utility\_utility.styl */
+/* line 1 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\utility\_utility.styl */
 .dispNone {
   display: none;
 }
 
-/* line 4 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\utility\_utility.styl */
+/* line 4 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\utility\_utility.styl */
 .opac100 {
   opacity: 100;
 }
 
-/* line 7 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\utility\_utility.styl */
+/* line 7 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\utility\_utility.styl */
 .opac0 {
   opacity: 0;
 }
 
-/* line 10 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\utility\_utility.styl */
+/* line 10 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\utility\_utility.styl */
 .letterSpaceNormal {
   letter-spacing: normal;
 }
 
-/* line 13 : C:\Users\daito\OneDrive\ドキュメント\Github\nazonosono\src\stylus\utility\_utility.styl */
+/* line 13 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\utility\_utility.styl */
 .dispFlex {
   display: flex;
   flex-wrap: wrap;

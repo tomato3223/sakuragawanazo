@@ -9,33 +9,13 @@ $(function () {
       sessionStorage.setItem('access', 'true'); // sessionStorageにデータを保存
       $(".progress__bar__now").css("animation","progress .6s forwards");
       setTimeout(function () {
-        // 幕を閉じて開く
-        $(".maku__left, .maku__right").addClass('move');
-      }, 1000);
-      setTimeout(function () {
-        // プログレスバーを非表示にする
-        $(".progress").addClass('dispNone');
-      }, 2200);
+        // ロゴをゆっくり表示
+        $(".load__logo").fadeIn(900);
+      }, 300);
       setTimeout(function () {
         // ロード画面を非表示にする
-        $(".load").addClass('dispNone');
-      }, 4000);
-      // トップページの要素を非表示に
-      $(".hero__msg--1").addClass('opac0');
-      $(".hero__msg--2").addClass('opac0');
-      $(".hero__scroll").addClass('opac0');
-      // $(".top > .header").addClass('opac0');
-      // トップページの要素を順番に表示
-      setTimeout(function () {
-        $(".hero__msg--1").removeClass('opac0');
-      }, 4000);
-      setTimeout(function () {
-        $(".hero__msg--2").removeClass('opac0');
-      }, 5500);
-      setTimeout(function () {
-        $(".hero__scroll").removeClass('opac0');
-        // $(".top > .header").removeClass('opac0');
-      }, 7000);
+        $(".load").fadeOut(1200);
+      }, 3000);
     }
   }
   webStorage();
@@ -46,11 +26,33 @@ $(function() {
     $(".hamburger").click(function() {
         $(this).toggleClass("active");
         if ($(this).hasClass("active")) {
-            $(".hamburgerMenu").addClass("active");
+            $(".hamburgerMenu").addClass("active")
+            $(".mask").addClass("active")
         } else {
             $(".hamburgerMenu").removeClass("active");
+            $(".mask").removeClass("active")
         }
     });
+    // aタグを押したときもメニューを閉じる
+    $("a").click(function() {
+      $(".hamburger").removeClass("active");
+      $(".hamburgerMenu").removeClass("active");
+      $(".mask").removeClass("active")
+    });
+});
+
+// スムーズスクロール
+$(function () {
+  $('a[href^="#"]').click(function () {
+    var href = $(this).attr("href");
+    var target = $(href == "#" || href == "" ? 'html' : href);
+    var position = target.offset().top;
+    var speed = 500;
+    $("html, body").animate({
+      scrollTop: position
+    }, speed, "swing");
+    return false;
+  });
 });
 
 // アドレスバーの高さを除いたサイズを取得

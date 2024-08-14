@@ -13,16 +13,8 @@ headerHeightPc = logoTopPc * 2 + logoLenPc
   top: 0
   z-index: 10
 
-.headerLogo
-  margin 0
-  padding 1rem
-  & img
-    height headerHeight - 1rem * 2
-    position relative
-    width auto
-
 .hamburger
-  background center/100% url(imgPath+"/common/hukidashi_menu.png")
+  background: c-blue-2
   cursor: pointer;
   display : block;
   height: logoLen;
@@ -31,9 +23,9 @@ headerHeightPc = logoTopPc * 2 + logoLenPc
   text-align: center;
   top: logoTop;
   width: logoLen;
-  z-index: 10;
+  z-index: 11;
   & span
-    background: c-bg-1;
+    background: white
     display: block;
     height: .15rem;
     right: logoTop;
@@ -65,17 +57,19 @@ headerHeightPc = logoTopPc * 2 + logoLenPc
         transform: rotate(45deg);
 
 .hamburgerMenu
-  background: c-bg-1;
-  color: c-txt-1;
+  background: white;
+  color: c-blue-1;
+  height 100vh
   left: 0;
   opacity: 0;
   position: fixed;
   text-align: center;
   top: 0
-  transition: .6s ease;
   visibility: hidden;
-  width: 100%;
-  z-index: 5;
+  width: 80%;
+  z-index: 10;
+  transition: 0.4s 
+  transform: translateX(100%)
   &__contents
     margin: 0 auto;
     padding: 0;
@@ -88,33 +82,30 @@ headerHeightPc = logoTopPc * 2 + logoLenPc
       &:last-child
         padding-bottom: 0;
       & a
-        color: c-txt-1;
+        color: c-blue-1;
         display: inline-block;
         margin 3rem 0 .2rem
         padding 0
         width 45%
         &:hover
-          background-color c-txt-1
-          color c-bg-1
+          background-color c-blue-3
+          
     &__icon
       margin 2.8rem 0.8rem
       width 4rem
 
   /* このクラスを、jQueryで付与・削除する */
   &.active
-    height 100vh
     opacity: 100
     overflow-y: scroll
     visibility: visible
+    transform: translateX(30%)
     &::-webkit-scrollbar
       display none
 
 +ls()
   .header
     height headerHeightPc
-  .headerLogo
-    & img
-      height headerHeightPc - 1.2rem * 2
   .hamburger
     height: logoLenPc;
     width: logoLenPc;
@@ -145,7 +136,7 @@ headerHeightPc = logoTopPc * 2 + logoLenPc
           padding-top 1rem
           width 15%
           &::after
-            border-bottom: .2rem solid c-txt-1
+            border-bottom: .2rem solid c-blue-1
             content ""
             display block
             padding-bottom .5rem
@@ -164,4 +155,4 @@ headerHeightPc = logoTopPc * 2 + logoLenPc
         width 2.8%
     &.active
       &::-webkit-scrollbar
-        background-color c-bg-1
+        background-color white
