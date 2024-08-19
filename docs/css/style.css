@@ -990,22 +990,20 @@ li {
 /* line 22 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\page\_top.styl */
 .modal-close {
   background: #34acbd;
-  padding: 0;
-  margin: 0;
   width: 4rem;
   height: 4rem;
   display: block;
   z-index: 16;
 }
 
-/* line 30 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\page\_top.styl */
+/* line 28 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\page\_top.styl */
 .modal-close__wrap {
   position: absolute;
   right: 10%;
   top: 20%;
 }
 
-/* line 34 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\page\_top.styl */
+/* line 32 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\page\_top.styl */
 .modal-close span {
   position: relative;
   width: 100%;
@@ -1014,17 +1012,17 @@ li {
   display: block;
 }
 
-/* line 40 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\page\_top.styl */
+/* line 38 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\page\_top.styl */
 .modal-close span:nth-child(1) {
   transform: rotate(45deg);
 }
 
-/* line 42 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\page\_top.styl */
+/* line 40 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\page\_top.styl */
 .modal-close span:nth-child(2) {
   transform: rotate(-45deg);
 }
 
-/* line 45 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\page\_top.styl */
+/* line 43 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\page\_top.styl */
 .overlay {
   position: fixed;
   width: 100%;
@@ -1038,12 +1036,12 @@ li {
   right: 0;
 }
 
-/* line 56 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\page\_top.styl */
+/* line 54 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\page\_top.styl */
 .overlay.active {
   display: block;
 }
 
-/* line 59 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\page\_top.styl */
+/* line 57 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\page\_top.styl */
 .hint {
   width: 30rem;
   height: 30rem;
@@ -1052,7 +1050,7 @@ li {
   transform: translate(-50%, 60%);
 }
 
-/* line 68 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\page\_top.styl */
+/* line 66 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\page\_top.styl */
 .answer {
   width: 30rem;
   height: 30rem;
@@ -1061,7 +1059,7 @@ li {
   transform: translate(-50%, 60%);
 }
 
-/* line 73 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\page\_top.styl */
+/* line 71 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\page\_top.styl */
 
 /* line 1 : C:\Users\daito\OneDrive\ドキュメント\謎解き\個人企画\最宴祭\桜川周遊\webサイト\sakuragawanazo\src\stylus\utility\_utility.styl */
 
