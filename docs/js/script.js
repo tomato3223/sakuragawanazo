@@ -41,6 +41,42 @@ $(function() {
     });
 });
 
+// ヒント画像ポップアップ表示
+$(function(){
+  $(".btn__hint").click(function(){
+    $(this).addClass("active")
+    $(".modal").addClass("active")
+    $(".overlay").addClass("active")
+    $(".answer").hide()
+    $(".hamburger").hide()
+  })
+  $(".modal-close").click(function(){
+    $(".overlay").removeClass("active")
+    $(".modal").removeClass("active")
+    $(".btn__hint").removeClass("active")
+    $(".answer").show()
+    $(".hamburger").show()
+  })
+})
+
+// 答え画像ポップアップ表示
+$(function(){
+  $(".btn__answer").click(function(){
+    $(this).addClass("active")
+    $(".modal").addClass("active")
+    $(".overlay").addClass("active")
+    $(".hint").hide()
+    $(".hamburger").hide()
+  })
+  $(".modal-close").click(function(){
+    $(".overlay").removeClass("active")
+    $(".modal").removeClass("active")
+    $(".btn__answer").removeClass("active")
+    $(".hint").show()
+    $(".hamburger").show()
+  })
+})
+
 // スムーズスクロール
 $(function () {
   $('a[href^="#"]').click(function () {

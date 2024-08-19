@@ -10,14 +10,22 @@ block contents
   section(class="mainvisual" id="mainvisual")
     img(class="image" src=imgPath+"/top/mainvisual.jpg" alt="メインビジュアル")
   section(class="story" id="story")
-    img(class="image" src=imgPath+"/top/story.png" alt="ストーリー")
+    img(class="image" src=imgPath+"/top/story_sp.png" alt="ストーリー")
   section(class="howtoplay" id="howtoplay")
     img(class="image" src=imgPath+"/top/howtoplay_sp_1.png" alt="遊び方1")
     img(class="image" src=imgPath+"/top/howtoplay_sp_2.png" alt="遊び方2")
   section(class="warning" id="warning")
     img(class="image" src=imgPath+"/top/warning_sp.png" alt="注意事項")
   section(class="practice" id="practice")
-    img(class="image" src=imgPath+"/top/practice1.png" alt="お試し謎1")
-    a(class="btn--box") ヒント
-    a(class="btn--box") 答え
+    img(class="image" src=imgPath+"/top/practice_sp.png" alt="お試し謎")
+    img(class="btn__hint" src=imgPath+"/top/button_hint.png", alt="ヒントボタン")
+    img(class="btn__answer" src=imgPath+"/top/button_answer.png", alt="答えボタン")
+    div(class="overlay" id="js-overlay")
+    div(class="modal" id="js-modal")
+      div(class="modal-close__wrap")
+        button(class="modal-close" id="js-close")
+          span 
+          span 
+      img(class="hint" src=imgPath+"/top/practice_hint.png" alt="ヒント画像")
+      img(class="answer" src=imgPath+"/top/practice_answer.png" alt="答え画像")
       

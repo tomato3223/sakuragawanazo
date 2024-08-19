@@ -54,7 +54,7 @@
     <!-- ##### ロード画面 #####-->
     <div class="load">
       <div class="load">
-        <div class="load__logo"><img src="img/common/logo.png"></div>
+        <div class="load__logo"><img src="img/common/logo.svg"></div>
       </div>
     </div>
     <!-- ##### ヘッダー #####-->
@@ -74,10 +74,17 @@
     <main class="top__main">
       <div class="mask" id="mask"> </div>
       <section class="mainvisual" id="mainvisual"><img class="image" src="img/top/mainvisual.jpg" alt="メインビジュアル"></section>
-      <section class="story" id="story"><img class="image" src="img/top/story.png" alt="ストーリー"></section>
+      <section class="story" id="story"><img class="image" src="img/top/story_sp.png" alt="ストーリー"></section>
       <section class="howtoplay" id="howtoplay"><img class="image" src="img/top/howtoplay_sp_1.png" alt="遊び方1"><img class="image" src="img/top/howtoplay_sp_2.png" alt="遊び方2"></section>
       <section class="warning" id="warning"><img class="image" src="img/top/warning_sp.png" alt="注意事項"></section>
-      <section class="practice" id="practice"><img class="image" src="img/top/practice1.png" alt="お試し謎1"><a class="btn--box">ヒント</a><a class="btn--box">答え</a></section>
+      <section class="practice" id="practice"><img class="image" src="img/top/practice_sp.png" alt="お試し謎"><img class="btn__hint" src="img/top/button_hint.png" alt="ヒントボタン"><img class="btn__answer" src="img/top/button_answer.png" alt="答えボタン">
+        <div class="overlay" id="js-overlay"></div>
+        <div class="modal" id="js-modal">
+          <div class="modal-close__wrap">
+            <button class="modal-close" id="js-close"><span> </span><span> </span></button>
+          </div><img class="hint" src="img/top/practice_hint.png" alt="ヒント画像"><img class="answer" src="img/top/practice_answer.png" alt="答え画像">
+        </div>
+      </section>
     </main>
     <!-- ##### フッター #####-->
     <footer class="footer">
