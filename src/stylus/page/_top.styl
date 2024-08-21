@@ -10,9 +10,8 @@
   width 100%
   height 100%
   position fixed
-  top 50%
-  left 50%
-  transform translate(-50%, -50%)
+  top 0%
+  left 0%
   background rgba(0,0,0,0.55)
   display none
   text-align center
@@ -27,18 +26,20 @@
   z-index 16
   &__wrap
     position absolute
-    right 10%
-    top 20%
-  & span
-    position relative
-    width 100%
-    height 0.1rem
-    background white
-    display block
-    &:nth-child(1)
-      transform rotate(45deg)
-    &:nth-child(2)
-      transform rotate(-45deg)
+    right 12.5%
+    top 30%
+    & span
+      position absolute
+      top 50%
+      left 25%
+      width 2rem
+      height 0.2rem
+      background white
+      display block
+      &:nth-child(1)
+        transform rotate(45deg)
+      &:nth-child(2)
+        transform rotate(-45deg)
 
 .overlay
   position fixed
@@ -48,25 +49,18 @@
   background rgba(0,0,0,0.55)
   opacity .6
   z-index 0
-  top 0
-  left 0
-  right 0
+  top 0%
+  left 0%
+  right 0%
   &.active
     display block
 
-.hint
-  width 30rem
-  height 30rem
+.modal img
+  width 75%
+  height auto
   z-index 16
   position absolute
-  transform translate(-50%, 60%)
-  
-  
-
-.answer
-  width 30rem
-  height 30rem
-  z-index 16
-  position absolute
-  transform translate(-50%, 60%)
+  top 35%
+  left 12.5%
+  display block
 
