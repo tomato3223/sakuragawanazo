@@ -10,11 +10,12 @@
   width 100%
   height 100%
   position fixed
-  top 0%
-  left 0%
+  top 0
+  left 0
+  right 0
+  bottom 0
   background rgba(0,0,0,0.55)
   display none
-  text-align center
   &.active
     display block
 
@@ -26,8 +27,8 @@
   z-index 16
   &__wrap
     position absolute
-    right 12.75%
-    top 29%
+    right 12.5%
+    top 25%
     & span
       position absolute
       top 50%
@@ -59,8 +60,11 @@
   width 75%
   height auto
   z-index 16
-  position absolute
-  top 35%
-  left 12.5%
+  position relative
+  top 33%
+  right 0
+  left 0
+  bottom 0
+  margin auto
   display block
 
