@@ -91,6 +91,17 @@ $(function () {
   });
 });
 
+// もし端末がPCならPC用の画像に差し替え
+$(function () {
+  var width = $(window).width();
+  if( width > 768 ){
+    $('.image').each(function(){
+      $('#sp-only').remove();
+      $(this).attr("src", $(this).attr("src").replace("_sp","_pc"));
+    })
+  }
+});
+
 // アドレスバーの高さを除いたサイズを取得
 $(function () {
   $('.hero').height($(window).innerHeight());
