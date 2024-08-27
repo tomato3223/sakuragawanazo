@@ -99,6 +99,14 @@ headerHeightPc = logoTopPc * 2 + logoLenPc
     &::-webkit-scrollbar
       display none
 
+.top_button
+  position fixed
+  display block
+  width 20%
+  height auto
+  right logoTop
+  bottom logoTop
+
 +ls()
   .header
     height headerHeightPc
@@ -150,3 +158,8 @@ headerHeightPc = logoTopPc * 2 + logoLenPc
     &.active
       &::-webkit-scrollbar
         background-color white
+
+  .top_button
+    width 8%
+    right logoTopPc
+    bottom logoTopPc
