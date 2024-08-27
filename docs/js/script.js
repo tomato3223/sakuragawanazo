@@ -49,6 +49,7 @@ $(function(){
     $(".overlay").addClass("active")
     $(".answer").hide()
     $(".hamburger").hide()
+    $(".top_button").hide()
   })
   $(".modal-close").click(function(){
     $(".overlay").removeClass("active")
@@ -56,6 +57,7 @@ $(function(){
     $(".btn__hint").removeClass("active")
     $(".answer").show()
     $(".hamburger").show()
+    $(".top_button").show()
   })
 })
 
@@ -67,6 +69,7 @@ $(function(){
     $(".overlay").addClass("active")
     $(".hint").hide()
     $(".hamburger").hide()
+    $(".top_button").hide()
   })
   $(".modal-close").click(function(){
     $(".overlay").removeClass("active")
@@ -74,6 +77,7 @@ $(function(){
     $(".btn__answer").removeClass("active")
     $(".hint").show()
     $(".hamburger").show()
+    $(".top_button").show()
   })
 })
 
