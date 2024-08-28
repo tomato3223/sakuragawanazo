@@ -44,26 +44,42 @@ $(function() {
 // ヒント画像ポップアップ表示
 $(function(){
   $(".btn__hint").click(function(){
+    var parent = $(this).parent().attr("class")
+    if(parent == "practice1"){
+      $(".hint").attr("src", $(".hint").attr("src").replace(/_[0-9]/g,"_1"));
+    }else if(parent == "practice2"){
+      $(".hint").attr("src", $(".hint").attr("src").replace(/_[0-9]/g,"_2"));
+    }else if(parent == "practice3"){
+      $(".hint").attr("src", $(".hint").attr("src").replace(/_[0-9]/g,"_3"));
+    }
     $(this).addClass("active")
     $(".modal").addClass("active")
     $(".overlay").addClass("active")
-    $(".answer").hide()
     $(".hamburger").hide()
     $(".top_button").hide()
+    $(".answer").hide()
   })
   $(".modal-close").click(function(){
     $(".overlay").removeClass("active")
     $(".modal").removeClass("active")
     $(".btn__hint").removeClass("active")
-    $(".answer").show()
     $(".hamburger").show()
     $(".top_button").show()
+    $(".answer").show()
   })
 })
 
 // 答え画像ポップアップ表示
 $(function(){
   $(".btn__answer").click(function(){
+    var parent = $(this).parent().attr("class")
+    if(parent == "practice1"){
+      $(".answer").attr("src", $(".answer").attr("src").replace(/_[0-9]/g,"_1"));
+    }else if(parent == "practice2"){
+      $(".answer").attr("src", $(".answer").attr("src").replace(/_[0-9]/g,"_2"));
+    }else if(parent == "practice3"){
+      $(".answer").attr("src", $(".answer").attr("src").replace(/_[0-9]/g,"_3"));
+    }
     $(this).addClass("active")
     $(".modal").addClass("active")
     $(".overlay").addClass("active")
