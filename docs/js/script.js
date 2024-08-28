@@ -46,26 +46,37 @@ $(function(){
   $(".btn__hint").click(function(){
     var parent = $(this).parent().attr("class")
     if(parent == "practice1"){
-      $(".hint").attr("src", $(".hint").attr("src").replace(/_[0-9]/g,"_1"));
+      $(".hint2").hide()
+      $(".hint3").hide()
     }else if(parent == "practice2"){
-      $(".hint").attr("src", $(".hint").attr("src").replace(/_[0-9]/g,"_2"));
+      $(".hint1").hide()
+      $(".hint3").hide()
     }else if(parent == "practice3"){
-      $(".hint").attr("src", $(".hint").attr("src").replace(/_[0-9]/g,"_3"));
+      $(".hint1").hide()
+      $(".hint2").hide()
     }
     $(this).addClass("active")
     $(".modal").addClass("active")
     $(".overlay").addClass("active")
     $(".hamburger").hide()
     $(".top_button").hide()
-    $(".answer").hide()
+    $(".answer1").hide()
+    $(".answer2").hide()
+    $(".answer3").hide()
   })
   $(".modal-close").click(function(){
+    
     $(".overlay").removeClass("active")
     $(".modal").removeClass("active")
     $(".btn__hint").removeClass("active")
     $(".hamburger").show()
     $(".top_button").show()
-    $(".answer").show()
+    $(".hint1").show()
+    $(".hint2").show()
+    $(".hint3").show()
+    $(".answer1").show()
+    $(".answer2").show()
+    $(".answer3").show()
   })
 })
 
@@ -74,26 +85,36 @@ $(function(){
   $(".btn__answer").click(function(){
     var parent = $(this).parent().attr("class")
     if(parent == "practice1"){
-      $(".answer").attr("src", $(".answer").attr("src").replace(/_[0-9]/g,"_1"));
+      $(".answer2").hide()
+      $(".answer3").hide()
     }else if(parent == "practice2"){
-      $(".answer").attr("src", $(".answer").attr("src").replace(/_[0-9]/g,"_2"));
+      $(".answer1").hide()
+      $(".answer3").hide()
     }else if(parent == "practice3"){
-      $(".answer").attr("src", $(".answer").attr("src").replace(/_[0-9]/g,"_3"));
+      $(".answer1").hide()
+      $(".answer2").hide()
     }
     $(this).addClass("active")
     $(".modal").addClass("active")
     $(".overlay").addClass("active")
-    $(".hint").hide()
     $(".hamburger").hide()
     $(".top_button").hide()
+    $(".hint1").hide()
+    $(".hint2").hide()
+    $(".hint3").hide()
   })
   $(".modal-close").click(function(){
     $(".overlay").removeClass("active")
     $(".modal").removeClass("active")
     $(".btn__answer").removeClass("active")
-    $(".hint").show()
     $(".hamburger").show()
     $(".top_button").show()
+    $(".hint1").show()
+    $(".hint2").show()
+    $(".hint3").show()
+    $(".answer1").show()
+    $(".answer2").show()
+    $(".answer3").show()
   })
 })
 
