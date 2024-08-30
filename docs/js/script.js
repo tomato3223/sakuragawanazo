@@ -28,9 +28,11 @@ $(function() {
         if ($(this).hasClass("active")) {
             $(".hamburgerMenu").addClass("active")
             $(".mask").addClass("active")
+            $("body").css({ height: "100%", overflow: "hidden" })
         } else {
             $(".hamburgerMenu").removeClass("active");
             $(".mask").removeClass("active")
+            $("body").css({ height: "", overflow: "" })
         }
     });
     // aタグを押したときもメニューを閉じる
@@ -38,12 +40,16 @@ $(function() {
       $(".hamburger").removeClass("active");
       $(".hamburgerMenu").removeClass("active");
       $(".mask").removeClass("active")
+      $("body").css({ height: "", overflow: "" })
     });
 });
 
 // ヒント画像ポップアップ表示
 $(function(){
   $(".btn__hint").click(function(){
+    // 背景が動かないように固定
+    $("body").css({ height: "100%", overflow: "hidden" })
+    // 親要素によって表示するヒント画像を変更
     var parent = $(this).parent().attr("class")
     if(parent == "practice1"){
       $(".hint2").hide()
@@ -65,7 +71,9 @@ $(function(){
     $(".answer3").hide()
   })
   $(".modal-close").click(function(){
-    
+    // 背景固定を解除
+    $("body").css({ height: "", overflow: "" })
+
     $(".overlay").removeClass("active")
     $(".modal").removeClass("active")
     $(".btn__hint").removeClass("active")
@@ -83,6 +91,9 @@ $(function(){
 // 答え画像ポップアップ表示
 $(function(){
   $(".btn__answer").click(function(){
+    // 背景が動かないように固定
+    $("body").css({ height: "100%", overflow: "hidden" })
+   // 親要素によって表示する答え画像を変更
     var parent = $(this).parent().attr("class")
     if(parent == "practice1"){
       $(".answer2").hide()
@@ -104,6 +115,9 @@ $(function(){
     $(".hint3").hide()
   })
   $(".modal-close").click(function(){
+    // 背景固定を解除
+    $("body").css({ height: "", overflow: "" })
+    
     $(".overlay").removeClass("active")
     $(".modal").removeClass("active")
     $(".btn__answer").removeClass("active")
